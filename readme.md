@@ -134,8 +134,8 @@ Para rodar o projeto localmente, siga os passos abaixo:
 1.  Clone o repositório:
     
     ```bash
-    git clone https://github.com/esscova/data-engineering/scraper-globo.git
-    cd data-engineering/scraper-globo
+    git clone https://github.com/esscova/scraper-globo.git
+    cd scraper-globo
     
     ```
     
